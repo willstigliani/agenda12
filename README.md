@@ -10,4 +10,3 @@ Este projeto é uma página HTML simples que mostra meus sites favoritos:
 
 
 ![Visualização do Projeto](./preview.jpeg)
-
